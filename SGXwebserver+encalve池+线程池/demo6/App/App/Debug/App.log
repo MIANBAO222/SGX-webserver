@@ -1,0 +1,14 @@
+﻿  Creating untrusted proxy/bridge routines
+  stdafx.cpp
+  httpServer.cpp
+e:\thread_pool_added\demo6\app\app\threadpool.h(173): warning C4018: “>=”: 有符号/无符号不匹配
+e:\thread_pool_added\demo6\app\app\threadpool.h(180): warning C4018: “<”: 有符号/无符号不匹配
+e:\thread_pool_added\demo6\app\app\httpserver.cpp(177): warning C4305: “return”: 从“int”到“bool”截断
+  App.cpp
+e:\thread_pool_added\demo6\app\app\threadpool.h(173): warning C4018: “>=”: 有符号/无符号不匹配
+e:\thread_pool_added\demo6\app\app\threadpool.h(180): warning C4018: “<”: 有符号/无符号不匹配
+e:\thread_pool_added\demo6\app\app\app.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Enclave_u.c
+  App.vcxproj -> E:\thread_pool_added\demo6\App\Debug\App.exe
+  App.vcxproj -> E:\thread_pool_added\demo6\App\Debug\App.pdb (Full PDB)

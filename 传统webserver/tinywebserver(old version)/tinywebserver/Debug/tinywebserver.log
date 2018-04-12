@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  tinywebserver.cpp
+  httpServer.cpp
+e:\tinywebserver(old version)\tinywebserver\httpserver.cpp(56): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+e:\tinywebserver(old version)\tinywebserver\httpserver.cpp(149): warning C4018: “<=”: 有符号/无符号不匹配
+e:\tinywebserver(old version)\tinywebserver\httpserver.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+e:\tinywebserver(old version)\tinywebserver\httpserver.cpp(270): warning C4101: “s”: 未引用的局部变量
+e:\tinywebserver(old version)\tinywebserver\httpserver.cpp(269): warning C4101: “total_size”: 未引用的局部变量
+  正在生成代码...
+  tinywebserver.vcxproj -> E:\tinywebserver(old version)\Debug\tinywebserver.exe
+  tinywebserver.vcxproj -> E:\tinywebserver(old version)\Debug\tinywebserver.pdb (Full PDB)

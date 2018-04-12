@@ -1,0 +1,14 @@
+﻿  Creating untrusted proxy/bridge routines
+  stdafx.cpp
+  App.cpp
+App.cpp(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+App.cpp(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+App.cpp(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+App.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+  httpServer.cpp
+  Enclave_u.c
+  正在生成代码
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  App.vcxproj -> E:\demo5\App\Release\App.exe
+  App.vcxproj -> E:\demo5\App\Release\App.pdb (Full PDB)

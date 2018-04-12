@@ -1,0 +1,23 @@
+﻿  Creating proxy/bridge routines
+  Enclave.cpp
+Enclave.cpp(218): warning C4018: “<=”: 有符号/无符号不匹配
+Enclave.cpp(332): warning C4018: “<”: 有符号/无符号不匹配
+Enclave.cpp(364): warning C4101: “s”: 未引用的局部变量
+Enclave.cpp(363): warning C4101: “total_size”: 未引用的局部变量
+  Enclave_t.c
+    正在创建库 E:\demo5\App\Debug\Enclave.lib 和对象 E:\demo5\App\Debug\Enclave.exp
+  Enclave.vcxproj -> E:\demo5\App\Debug\Enclave.dll
+  Enclave.vcxproj -> E:\demo5\App\Debug\Enclave.pdb (Full PDB)
+  The required memory is 0x18a000.
+  Succeed.
+  <EnclaveConfiguration>
+      <ProdID>0</ProdID>
+      <ISVSVN>0</ISVSVN>
+      <StackMaxSize>0x40000</StackMaxSize>
+      <HeapMaxSize>0x100000</HeapMaxSize>
+      <TCSNum>1</TCSNum>
+      <TCSPolicy>1</TCSPolicy>
+      <DisableDebug>0</DisableDebug>
+      <MiscSelect>0</MiscSelect>
+      <MiscMask>0xFFFFFFFF</MiscMask>
+  </EnclaveConfiguration>
