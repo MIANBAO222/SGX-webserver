@@ -1,0 +1,18 @@
+
+#include<stdbool.h>
+#ifndef _HTTPSERVER_STRUCT_H_
+#define _HTTPSERVER_STRUCT_H_
+struct C_message
+{
+	char* data;
+	bool* isActive;
+	int clientSocket;
+	int id;
+};
+
+struct C_close_message
+{
+	bool* isActive;
+	int serverSocket;
+};
+#endif
